@@ -5,7 +5,7 @@ pipeline {
         stage('Build') {
             steps {
                
-                echo 'FUNCINOU!!!!!!!!!. Começando a construir o trabalho, sendo a equipe Marcos Rangel, Vitor Santos e Igor Santos'
+                echo 'FUNCINOU!. Começando a construir o trabalho, sendo a equipe Marcos Rangel, Vitor Santos e Igor Santos'
             }
         }
         stage('Test') {
