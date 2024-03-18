@@ -5,7 +5,7 @@ pipeline {
         stage('Build') {
             steps {
                
-                echo 'Começando a construir o trabalho, sendo a equipe Marcos Rangel, Vitor Santos e Igor Santos'
+                echo 'testando se o push vai funcionar automáticvo. Começando a construir o trabalho, sendo a equipe Marcos Rangel, Vitor Santos e Igor Santos'
             }
         }
         stage('Test') {
