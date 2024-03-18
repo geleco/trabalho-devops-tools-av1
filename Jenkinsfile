@@ -17,7 +17,7 @@ pipeline {
         stage('Deploy') {
             steps {
                
-                echo 'Projeto sendo implementado, esperando que funcione... de novo'
+                echo 'AGORA TÁ TUDO ATUALIZANDO AUTOMÁTICO!!!! Projeto sendo implementado, esperando que funcione... de novo'
             }
         }
     }
